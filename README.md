@@ -29,7 +29,7 @@
 
 ### 4. ⏱️ Manajemen Waktu & Sesi
 * **Timer Mundur 80 Menit:** Waktu berjalan otomatis dengan perubahan warna menjadi merah menyala saat waktu menipis (sisa < 5 menit).
-* **Reset & Rotasi Token:** Token ujian otomatis berganti dinamis dari `U-INF-11` (sesi awal) menjadi `INF-11` setelah peserta mengakhiri ujian dan kembali ke halaman login.
+* **Reset & Rotasi Token:** Token ujian otomatis berganti dinamis dari setelah peserta mengakhiri ujian dan kembali ke halaman login.
 
 ---
 

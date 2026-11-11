@@ -19,7 +19,7 @@
 ### 2. 🛡️ Sistem Keamanan Ketat (Anti-Cheat)
 * **Deteksi Pelanggaran Lapis Tiga:** Mendeteksi peserta yang berpindah tab (*visibilitychange*), keluar dari mode layar penuh (*fullscreenchange*), atau kehilangan fokus jendela (*window blur*).
 * **Sistem 3 Strikes:** Peserta diberikan peringatan pada pelanggaran ke-1 dan ke-2. Pada pelanggaran ke-3, layar ujian akan terkunci total (*Lockdown*).
-* **Buka Kunci Pengawas:** Layar terkunci hanya dapat dibuka kembali dengan memasukkan password khusus guru (`MSRF04`).
+* **Buka Kunci Pengawas:** Layar terkunci hanya dapat dibuka kembali dengan memasukkan password khusus guru.
 * **Proteksi Tambahan:** Pencegahan klik kanan, *Inspect Element*, dan kombinasi tombol pintasan *Developer Tools* (F12 / Ctrl+Shift+I).
 
 ### 3. ✨ Aksesibilitas & Interaktivitas

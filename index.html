@@ -488,7 +488,7 @@ Durian C : Berat 5 kg | Rp 50.000</pre>
     // Perhatikan batas perulangan ini!
     for (int i = 0; i < n - 2; i++) {
         // Cek apakah huruf tengah lebih besar dari pengapitnya
-        if (S[i] < S[i+1] && S[i+1] > S[i+2]) {
+        if (S[i] < S[i+1] && S[i+1] > S[i+2]) { // && itu sama dengan AND
             total++;
         }
     }
